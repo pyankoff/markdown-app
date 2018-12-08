@@ -1,6 +1,6 @@
 # Getting markdown from GitHub API
 
-![graphql+apollo](https://jslancer.com/wp-content/uploads/2017/08/GraphQL-Apollo.jpg)
+![graphql+apollo](https://jslancer.com/wp-content/uploads/2017/08/GraphQL-Apollo.jpg "image")
 GraphQL and Apollo are 💯
 
 `
