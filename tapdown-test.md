@@ -4,4 +4,5 @@ tapdownapp
 
 ## Just testing
 
+-----------------
 One thing | Another one
