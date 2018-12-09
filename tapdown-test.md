@@ -2,7 +2,10 @@ tapdownapp
 
 # Flashcards inside documents
 
-## Let's try adding flashcards
+## Add markdown table with card sides:
+![](https://snag.gy/LGPNMg.jpg)
+
+## Get flashcards you can add to your collection
 
 Front | Back
 -|-
